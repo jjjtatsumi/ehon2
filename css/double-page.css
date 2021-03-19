@@ -74,9 +74,11 @@ body{
 
 
 /*audhio ボタン*/
-audio {
+/*audio {
   display: none
 }
+*/
+
 #play, #stop {
   display: inline-block;
   width: 55px;
