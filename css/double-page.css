@@ -72,15 +72,15 @@ body{
 	background-size:100% 100%;
 }
 
-.audio{
+/* .audio{
   width:273px;
   margin-top:300px;
 }
 
-/*audhio ボタン*/
+/*audhio ボタン
 audio {
   display: none
-}
+} */
 
 
 #play, #stop {
